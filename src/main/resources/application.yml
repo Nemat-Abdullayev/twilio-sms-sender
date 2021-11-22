@@ -1,0 +1,16 @@
+#apn:
+#  api: https://api.development.push.apple.com/3/device
+#  apns-priority: 10
+#  apns-topic: com.a2z.enigma.ios
+#  p12:
+#    path: D:\A2Z_WORK_DATA\cert1.jks
+#    password: 123456
+
+
+
+twilio:
+  account_sid: ACd361158d7012f6b0360afb4e1bc5ddd5
+  auth_token: a46682955a06c4266e2d87df7bd0e3ed
+  trial_number: +18306235878
+server:
+  port: 8888
